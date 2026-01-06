@@ -11,3 +11,12 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
     stats
+Depends: 
+    dplyr,
+    FNN,
+    ggplot2,
+    igraph,
+    leiden,
+    purrr,
+    RANN,
+    tidyr
