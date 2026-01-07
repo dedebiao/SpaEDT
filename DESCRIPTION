@@ -1,5 +1,5 @@
 Package: SpaEDT
-Title: What the Package Does (One Line, Title Case)
+Title: Spatial Eco-Decoder for Tumor MicroEnvironments
 Version: 1.0
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
@@ -15,8 +15,11 @@ Depends:
     dplyr,
     FNN,
     ggplot2,
+    ggraph,
     igraph,
     leiden,
     purrr,
     RANN,
+    reticulate,
+    spdep,
     tidyr
