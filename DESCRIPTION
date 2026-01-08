@@ -1,5 +1,5 @@
 Package: SpaEDT
-Title: Spatial Eco-Decoder for Tumor MicroEnvironments
+Title: Spatial Eco-Decoder for Tumors
 Version: 1.0
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
